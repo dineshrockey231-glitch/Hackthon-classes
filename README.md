@@ -1,2 +1,2 @@
-# Hacthon-class
+# Hackthon-class
 helllo.txt
